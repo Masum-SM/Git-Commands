@@ -3,7 +3,7 @@ Git Commands
 ============
 
 ## Translated Versions
-- [Versão em português](READMEpt.md)
+- [English version (original)](README.md)
 - [বাংলা সংস্করণ](READMEbn.md)
 
 ___
